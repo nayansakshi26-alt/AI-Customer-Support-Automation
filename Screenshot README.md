@@ -1,6 +1,6 @@
 Project Screenshot will be added here.
 
-##WORKFLOW
+## WORKFLOW
 
 <img width="1621" height="801" alt="Screenshot 2026-07-28 222149" src="https://github.com/user-attachments/assets/39b3f5fc-e4df-4ffc-9367-6366b53b3df6" />
 
@@ -8,7 +8,7 @@ Project Screenshot will be added here.
 
 <img width="689" height="448" alt="Screenshot 2026-07-28 222255" src="https://github.com/user-attachments/assets/5d13b582-08c9-402a-9490-2fa53aa94988" />
 
-##GOOGLE SHEET
+## GOOGLE SHEET
 
 <img width="1798" height="436" alt="Screenshot 2026-07-28 223654" src="https://github.com/user-attachments/assets/6263d418-668b-4928-b9da-36f6f7babf33" />
 
